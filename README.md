@@ -1,7 +1,8 @@
 ### Hi there! 👋 I am Anil.
 
+
 - 💻 I mainly work as a software engineer using Java back-end technologies.
-- 📫 More about me and how to reach me: https://anilhanoglu.netlify.app/
+- 📫 More about me [here](https://anilhanoglu.netlify.app/)
 
 
 <div>
