@@ -2,7 +2,7 @@
 
 
 - 💻 I mainly work as a software engineer using Java back-end technologies.
-- 📫 More about me [here](https://anilhanoglu.netlify.app/)
+- 📫 More about me [here](https://anilhanoglu.com/) 
 
 <br>
 <div>
